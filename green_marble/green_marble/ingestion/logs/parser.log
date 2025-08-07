@@ -1,0 +1,496 @@
+2025-08-07 19:15:20 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_1.html
+2025-08-07 19:15:21 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:15:21 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:21 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:21 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_10.html
+2025-08-07 19:15:22 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:15:22 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:22 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:22 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_2.html
+2025-08-07 19:15:23 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:15:23 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:23 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:23 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_3.html
+2025-08-07 19:15:24 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:15:24 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:24 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:24 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_4.html
+2025-08-07 19:15:25 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:15:25 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:25 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:25 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_5.html
+2025-08-07 19:15:25 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:15:25 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:25 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:26 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_6.html
+2025-08-07 19:15:26 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:15:26 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:26 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:26 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_7.html
+2025-08-07 19:15:27 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:15:27 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:27 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:27 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_8.html
+2025-08-07 19:15:28 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:15:28 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:28 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:28 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_9.html
+2025-08-07 19:15:29 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:15:29 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:29 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:29 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_1.html
+2025-08-07 19:15:30 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_1.html | Found 17 product blocks.
+2025-08-07 19:15:30 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:30 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:30 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_10.html
+2025-08-07 19:15:30 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_10.html | Found 17 product blocks.
+2025-08-07 19:15:30 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:30 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:30 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_2.html
+2025-08-07 19:15:31 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_2.html | Found 17 product blocks.
+2025-08-07 19:15:31 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:31 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:31 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_3.html
+2025-08-07 19:15:32 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_3.html | Found 17 product blocks.
+2025-08-07 19:15:32 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:32 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:32 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_4.html
+2025-08-07 19:15:33 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_4.html | Found 17 product blocks.
+2025-08-07 19:15:33 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:33 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:33 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_5.html
+2025-08-07 19:15:34 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_5.html | Found 17 product blocks.
+2025-08-07 19:15:34 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:34 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:34 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_6.html
+2025-08-07 19:15:34 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_6.html | Found 17 product blocks.
+2025-08-07 19:15:34 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:34 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:34 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_7.html
+2025-08-07 19:15:35 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_7.html | Found 17 product blocks.
+2025-08-07 19:15:35 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:35 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:35 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_8.html
+2025-08-07 19:15:36 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_8.html | Found 17 product blocks.
+2025-08-07 19:15:36 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:36 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:36 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_9.html
+2025-08-07 19:15:37 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_9.html | Found 17 product blocks.
+2025-08-07 19:15:37 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:37 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:37 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_1.html
+2025-08-07 19:15:37 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:15:37 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:37 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:37 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_10.html
+2025-08-07 19:15:38 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:15:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:38 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_2.html
+2025-08-07 19:15:38 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:15:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:38 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_3.html
+2025-08-07 19:15:38 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:15:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:38 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_4.html
+2025-08-07 19:15:39 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:15:39 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:39 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:39 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_5.html
+2025-08-07 19:15:40 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:15:40 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:40 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:40 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_6.html
+2025-08-07 19:15:41 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:15:41 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:41 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:41 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_7.html
+2025-08-07 19:15:41 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:15:41 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:41 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:42 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_8.html
+2025-08-07 19:15:42 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:15:42 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:42 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:42 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_9.html
+2025-08-07 19:15:43 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:15:43 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:43 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:43 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_1.html
+2025-08-07 19:15:44 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:15:44 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:44 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:44 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_10.html
+2025-08-07 19:15:45 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:15:45 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:45 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:45 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_2.html
+2025-08-07 19:15:46 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:15:46 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:46 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:46 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_3.html
+2025-08-07 19:15:46 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:15:46 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:46 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:46 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_4.html
+2025-08-07 19:15:47 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:15:47 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:47 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:47 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_5.html
+2025-08-07 19:15:48 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:15:48 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:48 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:48 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_6.html
+2025-08-07 19:15:49 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:15:49 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:49 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:49 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_7.html
+2025-08-07 19:15:50 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:15:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:50 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_8.html
+2025-08-07 19:15:50 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:15:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:50 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_9.html
+2025-08-07 19:15:51 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:15:51 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:51 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:51 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_1.html
+2025-08-07 19:15:52 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:15:52 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:52 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:52 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_10.html
+2025-08-07 19:15:53 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:15:53 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:53 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:53 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_2.html
+2025-08-07 19:15:54 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:15:54 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:54 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:54 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_3.html
+2025-08-07 19:15:55 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:15:55 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:55 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:55 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_4.html
+2025-08-07 19:15:55 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:15:55 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:55 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:55 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_5.html
+2025-08-07 19:15:56 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:15:56 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:56 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:56 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_6.html
+2025-08-07 19:15:57 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:15:57 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:57 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:57 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_7.html
+2025-08-07 19:15:58 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:15:58 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:58 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:58 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_8.html
+2025-08-07 19:15:59 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_9.html
+2025-08-07 19:15:59 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_page_1.html
+2025-08-07 19:15:59 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_page_1.html | Found 20 product blocks.
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_page_2.html
+2025-08-07 19:15:59 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_page_2.html | Found 20 product blocks.
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:15:59 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_1.html
+2025-08-07 19:16:00 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:00 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:00 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:00 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_10.html
+2025-08-07 19:16:01 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:01 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:01 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:01 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_2.html
+2025-08-07 19:16:02 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:02 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:02 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:02 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_3.html
+2025-08-07 19:16:03 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:03 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:03 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:03 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_4.html
+2025-08-07 19:16:04 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:04 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:04 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:04 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_5.html
+2025-08-07 19:16:04 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:04 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:04 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:04 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_6.html
+2025-08-07 19:16:05 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:05 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:05 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:05 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_7.html
+2025-08-07 19:16:06 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:06 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:06 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:06 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_8.html
+2025-08-07 19:16:07 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:07 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:07 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:07 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_9.html
+2025-08-07 19:16:08 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:08 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:08 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:08 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_1.html
+2025-08-07 19:16:08 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:08 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:08 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:08 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_10.html
+2025-08-07 19:16:09 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:09 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:09 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:09 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_2.html
+2025-08-07 19:16:10 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:10 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:10 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:10 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_3.html
+2025-08-07 19:16:11 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:11 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:11 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:11 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_4.html
+2025-08-07 19:16:12 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:12 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:12 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:12 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_5.html
+2025-08-07 19:16:12 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:12 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:12 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:12 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_6.html
+2025-08-07 19:16:13 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:13 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:13 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:13 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_7.html
+2025-08-07 19:16:14 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:14 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:14 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:14 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_8.html
+2025-08-07 19:16:15 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:15 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:15 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:15 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_9.html
+2025-08-07 19:16:16 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:16 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:16 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:16 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_page_1.html
+2025-08-07 19:16:16 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:16 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:16 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:16 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_page_2.html
+2025-08-07 19:16:16 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:16 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:16 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:16 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_1.html
+2025-08-07 19:16:17 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:17 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:17 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:17 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_10.html
+2025-08-07 19:16:18 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:18 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:18 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:18 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_2.html
+2025-08-07 19:16:19 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:19 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:19 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:19 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_3.html
+2025-08-07 19:16:19 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:19 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:19 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:19 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_4.html
+2025-08-07 19:16:20 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:20 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:20 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:20 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_5.html
+2025-08-07 19:16:21 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:21 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:21 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:21 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_6.html
+2025-08-07 19:16:22 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:22 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:22 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:22 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_7.html
+2025-08-07 19:16:23 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:23 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:23 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:23 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_8.html
+2025-08-07 19:16:23 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:23 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:23 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:23 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_9.html
+2025-08-07 19:16:24 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:24 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:24 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:24 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_1.html
+2025-08-07 19:16:25 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:25 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:25 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:25 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_10.html
+2025-08-07 19:16:26 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:26 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:26 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:26 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_2.html
+2025-08-07 19:16:27 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:27 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:27 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:27 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_3.html
+2025-08-07 19:16:28 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:28 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:28 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:28 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_4.html
+2025-08-07 19:16:28 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:28 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:28 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:28 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_5.html
+2025-08-07 19:16:29 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:29 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:29 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:29 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_6.html
+2025-08-07 19:16:30 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:30 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:30 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:30 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_7.html
+2025-08-07 19:16:31 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:31 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:31 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:31 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_8.html
+2025-08-07 19:16:32 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:32 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:32 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:32 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_9.html
+2025-08-07 19:16:32 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:32 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:32 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:32 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_1.html
+2025-08-07 19:16:33 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:33 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:33 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:33 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_10.html
+2025-08-07 19:16:34 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:34 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:34 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:34 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_2.html
+2025-08-07 19:16:35 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:35 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:35 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:35 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_3.html
+2025-08-07 19:16:36 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:36 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:36 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:36 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_4.html
+2025-08-07 19:16:36 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:36 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:36 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:36 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_5.html
+2025-08-07 19:16:37 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:37 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:37 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:37 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_6.html
+2025-08-07 19:16:38 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:38 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:38 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_7.html
+2025-08-07 19:16:39 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:39 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:39 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:39 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_8.html
+2025-08-07 19:16:40 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:40 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:40 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:40 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_9.html
+2025-08-07 19:16:40 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:40 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:40 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:40 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_1.html
+2025-08-07 19:16:41 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:41 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:41 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:41 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_10.html
+2025-08-07 19:16:42 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:42 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:42 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:42 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_2.html
+2025-08-07 19:16:43 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:43 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:43 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:43 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_3.html
+2025-08-07 19:16:44 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:44 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:44 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:44 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_4.html
+2025-08-07 19:16:45 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:45 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:45 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:45 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_5.html
+2025-08-07 19:16:46 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:46 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:46 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:46 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_6.html
+2025-08-07 19:16:47 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:47 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:47 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:47 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_7.html
+2025-08-07 19:16:48 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:48 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:48 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:48 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_8.html
+2025-08-07 19:16:49 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:49 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:49 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:49 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_9.html
+2025-08-07 19:16:50 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:50 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_1.html
+2025-08-07 19:16:50 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_1.html | Found 20 product blocks.
+2025-08-07 19:16:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:50 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:50 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_10.html
+2025-08-07 19:16:51 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_10.html | Found 20 product blocks.
+2025-08-07 19:16:51 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:51 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:51 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_2.html
+2025-08-07 19:16:52 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_2.html | Found 20 product blocks.
+2025-08-07 19:16:52 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:52 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:52 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_3.html
+2025-08-07 19:16:53 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_3.html | Found 20 product blocks.
+2025-08-07 19:16:53 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:53 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:53 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_4.html
+2025-08-07 19:16:54 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_4.html | Found 20 product blocks.
+2025-08-07 19:16:54 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:54 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:54 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_5.html
+2025-08-07 19:16:54 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_5.html | Found 20 product blocks.
+2025-08-07 19:16:54 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:54 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:54 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_6.html
+2025-08-07 19:16:55 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_6.html | Found 20 product blocks.
+2025-08-07 19:16:55 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:55 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:55 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_7.html
+2025-08-07 19:16:56 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_7.html | Found 20 product blocks.
+2025-08-07 19:16:56 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:56 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:56 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_8.html
+2025-08-07 19:16:57 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_8.html | Found 20 product blocks.
+2025-08-07 19:16:57 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:57 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:57 | INFO | \U0001f50d Parsing: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_9.html
+2025-08-07 19:16:58 | INFO | \U0001f4c4 File: C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_9.html | Found 20 product blocks.
+2025-08-07 19:16:58 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'
+2025-08-07 19:16:58 | WARNING | \u26a0\ufe0f Error parsing a block: 'NoneType' object has no attribute 'get_text'

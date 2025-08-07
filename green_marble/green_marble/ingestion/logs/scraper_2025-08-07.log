@@ -58,3 +58,44 @@
 2025-08-07 18:56:35 | INFO | \u2705 Found 20 products on page 4
 2025-08-07 18:56:37 | INFO | \U0001f504 Scraping keyword='kitchen tiles' | page=5
 2025-08-07 18:56:38 | INFO | \u2705 Found 20 products on page 5
+2025-08-07 19:12:25 | INFO | \U0001f504 Scraping: marble tiles | Page: 1
+2025-08-07 19:12:26 | INFO | \u2705 Saved HTML: marble_tiles_page_1.html
+2025-08-07 19:12:28 | INFO | \U0001f504 Scraping: marble tiles | Page: 2
+2025-08-07 19:12:28 | INFO | \u2705 Saved HTML: marble_tiles_page_2.html
+2025-08-07 19:12:30 | INFO | \U0001f504 Scraping: marble tiles | Page: 3
+2025-08-07 19:12:31 | INFO | \u2705 Saved HTML: marble_tiles_page_3.html
+2025-08-07 19:12:33 | INFO | \U0001f504 Scraping: marble tiles | Page: 4
+2025-08-07 19:12:33 | INFO | \u2705 Saved HTML: marble_tiles_page_4.html
+2025-08-07 19:12:35 | INFO | \U0001f504 Scraping: marble tiles | Page: 5
+2025-08-07 19:12:36 | INFO | \u2705 Saved HTML: marble_tiles_page_5.html
+2025-08-07 19:12:38 | INFO | \U0001f504 Scraping: floor tiles | Page: 1
+2025-08-07 19:12:39 | INFO | \u2705 Saved HTML: floor_tiles_page_1.html
+2025-08-07 19:12:41 | INFO | \U0001f504 Scraping: floor tiles | Page: 2
+2025-08-07 19:12:41 | INFO | \u2705 Saved HTML: floor_tiles_page_2.html
+2025-08-07 19:12:44 | INFO | \U0001f504 Scraping: floor tiles | Page: 3
+2025-08-07 19:12:44 | INFO | \u2705 Saved HTML: floor_tiles_page_3.html
+2025-08-07 19:12:46 | INFO | \U0001f504 Scraping: floor tiles | Page: 4
+2025-08-07 19:12:47 | INFO | \u2705 Saved HTML: floor_tiles_page_4.html
+2025-08-07 19:12:49 | INFO | \U0001f504 Scraping: floor tiles | Page: 5
+2025-08-07 19:12:49 | INFO | \u2705 Saved HTML: floor_tiles_page_5.html
+2025-08-07 19:12:51 | INFO | \U0001f504 Scraping: bathroom tiles | Page: 1
+2025-08-07 19:12:52 | INFO | \u2705 Saved HTML: bathroom_tiles_page_1.html
+2025-08-07 19:12:54 | INFO | \U0001f504 Scraping: bathroom tiles | Page: 2
+2025-08-07 19:12:55 | INFO | \u2705 Saved HTML: bathroom_tiles_page_2.html
+2025-08-07 19:12:57 | INFO | \U0001f504 Scraping: bathroom tiles | Page: 3
+2025-08-07 19:12:57 | INFO | \u2705 Saved HTML: bathroom_tiles_page_3.html
+2025-08-07 19:12:59 | INFO | \U0001f504 Scraping: bathroom tiles | Page: 4
+2025-08-07 19:13:00 | INFO | \u2705 Saved HTML: bathroom_tiles_page_4.html
+2025-08-07 19:13:02 | INFO | \U0001f504 Scraping: bathroom tiles | Page: 5
+2025-08-07 19:13:03 | INFO | \u2705 Saved HTML: bathroom_tiles_page_5.html
+2025-08-07 19:13:05 | INFO | \U0001f504 Scraping: kitchen tiles | Page: 1
+2025-08-07 19:13:05 | INFO | \u2705 Saved HTML: kitchen_tiles_page_1.html
+2025-08-07 19:13:07 | INFO | \U0001f504 Scraping: kitchen tiles | Page: 2
+2025-08-07 19:13:08 | INFO | \u2705 Saved HTML: kitchen_tiles_page_2.html
+2025-08-07 19:13:10 | INFO | \U0001f504 Scraping: kitchen tiles | Page: 3
+2025-08-07 19:13:11 | INFO | \u2705 Saved HTML: kitchen_tiles_page_3.html
+2025-08-07 19:13:13 | INFO | \U0001f504 Scraping: kitchen tiles | Page: 4
+2025-08-07 19:13:13 | INFO | \u2705 Saved HTML: kitchen_tiles_page_4.html
+2025-08-07 19:13:15 | INFO | \U0001f504 Scraping: kitchen tiles | Page: 5
+2025-08-07 19:13:16 | INFO | \u2705 Saved HTML: kitchen_tiles_page_5.html
+2025-08-07 19:13:18 | INFO | \u2705 Scraping completed.
