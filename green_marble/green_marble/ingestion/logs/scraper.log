@@ -1,0 +1,5 @@
+2025-08-07 17:32:52 | INFO | Started parsing file: green_marble\ingestion\data\raw_html\2025-08-07\raw_page_1.html
+2025-08-07 17:39:08 | INFO | Started parsing file: C:\Users\qalta\green_marble\green_marble\ingestion\data\raw\india_mart\2025-08-07\raw_page_1.html
+2025-08-07 17:39:09 | INFO | Found 10 product blocks.
+2025-08-07 17:39:09 | INFO | Successfully parsed 10 products from C:\Users\qalta\green_marble\green_marble\ingestion\data\raw\india_mart\2025-08-07\raw_page_1.html
+2025-08-07 17:39:09 | INFO | Saved extracted data to: C:\Users\qalta\green_marble\green_marble\ingestion\scripts\..\data\extracted_data\indiamart_products_2025-08-07.csv
