@@ -3,3 +3,395 @@
 2025-08-07 17:39:09 | INFO | Found 10 product blocks.
 2025-08-07 17:39:09 | INFO | Successfully parsed 10 products from C:\Users\qalta\green_marble\green_marble\ingestion\data\raw\india_mart\2025-08-07\raw_page_1.html
 2025-08-07 17:39:09 | INFO | Saved extracted data to: C:\Users\qalta\green_marble\green_marble\ingestion\scripts\..\data\extracted_data\indiamart_products_2025-08-07.csv
+2025-08-07 18:27:23 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=1
+2025-08-07 18:27:24 | INFO | \u2705 Saved HTML for floor tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_1.html
+2025-08-07 18:27:24 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'floor tiles'.
+2025-08-07 18:27:26 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=2
+2025-08-07 18:27:27 | INFO | \u2705 Saved HTML for floor tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_2.html
+2025-08-07 18:27:27 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'floor tiles'.
+2025-08-07 18:27:29 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=3
+2025-08-07 18:27:30 | INFO | \u2705 Saved HTML for floor tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_3.html
+2025-08-07 18:27:30 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'floor tiles'.
+2025-08-07 18:27:32 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=4
+2025-08-07 18:27:32 | INFO | \u2705 Saved HTML for floor tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_4.html
+2025-08-07 18:27:32 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'floor tiles'.
+2025-08-07 18:27:34 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=5
+2025-08-07 18:27:35 | INFO | \u2705 Saved HTML for floor tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_5.html
+2025-08-07 18:27:35 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'floor tiles'.
+2025-08-07 18:27:37 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=6
+2025-08-07 18:27:38 | INFO | \u2705 Saved HTML for floor tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_6.html
+2025-08-07 18:27:38 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'floor tiles'.
+2025-08-07 18:27:40 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=7
+2025-08-07 18:27:41 | INFO | \u2705 Saved HTML for floor tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_7.html
+2025-08-07 18:27:41 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'floor tiles'.
+2025-08-07 18:27:43 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=8
+2025-08-07 18:27:43 | INFO | \u2705 Saved HTML for floor tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_8.html
+2025-08-07 18:27:44 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'floor tiles'.
+2025-08-07 18:27:46 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=9
+2025-08-07 18:27:46 | INFO | \u2705 Saved HTML for floor tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_9.html
+2025-08-07 18:27:46 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'floor tiles'.
+2025-08-07 18:27:48 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=floor+tiles&page=10
+2025-08-07 18:27:49 | INFO | \u2705 Saved HTML for floor tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\floor_tiles_page_10.html
+2025-08-07 18:27:49 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'floor tiles'.
+2025-08-07 18:27:51 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=1
+2025-08-07 18:27:52 | INFO | \u2705 Saved HTML for marble tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_1.html
+2025-08-07 18:27:52 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'marble tiles'.
+2025-08-07 18:27:54 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=2
+2025-08-07 18:27:55 | INFO | \u2705 Saved HTML for marble tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_2.html
+2025-08-07 18:27:55 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'marble tiles'.
+2025-08-07 18:27:57 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=3
+2025-08-07 18:27:58 | INFO | \u2705 Saved HTML for marble tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_3.html
+2025-08-07 18:27:58 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'marble tiles'.
+2025-08-07 18:28:00 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=4
+2025-08-07 18:28:00 | INFO | \u2705 Saved HTML for marble tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_4.html
+2025-08-07 18:28:00 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'marble tiles'.
+2025-08-07 18:28:02 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=5
+2025-08-07 18:28:03 | INFO | \u2705 Saved HTML for marble tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_5.html
+2025-08-07 18:28:03 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'marble tiles'.
+2025-08-07 18:28:05 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=6
+2025-08-07 18:28:06 | INFO | \u2705 Saved HTML for marble tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_6.html
+2025-08-07 18:28:06 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'marble tiles'.
+2025-08-07 18:28:08 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=7
+2025-08-07 18:28:09 | INFO | \u2705 Saved HTML for marble tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_7.html
+2025-08-07 18:28:09 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'marble tiles'.
+2025-08-07 18:28:11 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=8
+2025-08-07 18:28:11 | INFO | \u2705 Saved HTML for marble tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_8.html
+2025-08-07 18:28:12 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'marble tiles'.
+2025-08-07 18:28:14 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=9
+2025-08-07 18:28:14 | INFO | \u2705 Saved HTML for marble tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_9.html
+2025-08-07 18:28:14 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'marble tiles'.
+2025-08-07 18:28:16 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=marble+tiles&page=10
+2025-08-07 18:28:17 | INFO | \u2705 Saved HTML for marble tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\marble_tiles_page_10.html
+2025-08-07 18:28:17 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'marble tiles'.
+2025-08-07 18:28:19 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=1
+2025-08-07 18:28:20 | INFO | \u2705 Saved HTML for granite slabs page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_1.html
+2025-08-07 18:28:20 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'granite slabs'.
+2025-08-07 18:28:22 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=2
+2025-08-07 18:28:23 | INFO | \u2705 Saved HTML for granite slabs page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_2.html
+2025-08-07 18:28:23 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'granite slabs'.
+2025-08-07 18:28:25 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=3
+2025-08-07 18:28:26 | INFO | \u2705 Saved HTML for granite slabs page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_3.html
+2025-08-07 18:28:26 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'granite slabs'.
+2025-08-07 18:28:28 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=4
+2025-08-07 18:28:28 | INFO | \u2705 Saved HTML for granite slabs page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_4.html
+2025-08-07 18:28:28 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'granite slabs'.
+2025-08-07 18:28:30 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=5
+2025-08-07 18:28:31 | INFO | \u2705 Saved HTML for granite slabs page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_5.html
+2025-08-07 18:28:31 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'granite slabs'.
+2025-08-07 18:28:33 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=6
+2025-08-07 18:28:34 | INFO | \u2705 Saved HTML for granite slabs page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_6.html
+2025-08-07 18:28:34 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'granite slabs'.
+2025-08-07 18:28:36 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=7
+2025-08-07 18:28:37 | INFO | \u2705 Saved HTML for granite slabs page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_7.html
+2025-08-07 18:28:37 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'granite slabs'.
+2025-08-07 18:28:39 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=8
+2025-08-07 18:28:39 | INFO | \u2705 Saved HTML for granite slabs page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_8.html
+2025-08-07 18:28:39 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'granite slabs'.
+2025-08-07 18:28:41 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=9
+2025-08-07 18:28:42 | INFO | \u2705 Saved HTML for granite slabs page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_9.html
+2025-08-07 18:28:42 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'granite slabs'.
+2025-08-07 18:28:44 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=granite+slabs&page=10
+2025-08-07 18:28:45 | INFO | \u2705 Saved HTML for granite slabs page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\granite_slabs_page_10.html
+2025-08-07 18:28:45 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'granite slabs'.
+2025-08-07 18:28:47 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=1
+2025-08-07 18:28:49 | INFO | \u2705 Saved HTML for wall tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_1.html
+2025-08-07 18:28:49 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'wall tiles'.
+2025-08-07 18:28:51 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=2
+2025-08-07 18:28:51 | INFO | \u2705 Saved HTML for wall tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_2.html
+2025-08-07 18:28:51 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'wall tiles'.
+2025-08-07 18:28:53 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=3
+2025-08-07 18:28:54 | INFO | \u2705 Saved HTML for wall tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_3.html
+2025-08-07 18:28:54 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'wall tiles'.
+2025-08-07 18:28:56 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=4
+2025-08-07 18:28:57 | INFO | \u2705 Saved HTML for wall tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_4.html
+2025-08-07 18:28:57 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'wall tiles'.
+2025-08-07 18:28:59 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=5
+2025-08-07 18:29:00 | INFO | \u2705 Saved HTML for wall tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_5.html
+2025-08-07 18:29:00 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'wall tiles'.
+2025-08-07 18:29:02 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=6
+2025-08-07 18:29:02 | INFO | \u2705 Saved HTML for wall tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_6.html
+2025-08-07 18:29:02 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'wall tiles'.
+2025-08-07 18:29:04 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=7
+2025-08-07 18:29:05 | INFO | \u2705 Saved HTML for wall tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_7.html
+2025-08-07 18:29:05 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'wall tiles'.
+2025-08-07 18:29:07 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=8
+2025-08-07 18:29:08 | INFO | \u2705 Saved HTML for wall tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_8.html
+2025-08-07 18:29:08 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'wall tiles'.
+2025-08-07 18:29:10 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=9
+2025-08-07 18:29:11 | INFO | \u2705 Saved HTML for wall tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_9.html
+2025-08-07 18:29:11 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'wall tiles'.
+2025-08-07 18:29:13 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=wall+tiles&page=10
+2025-08-07 18:29:13 | INFO | \u2705 Saved HTML for wall tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\wall_tiles_page_10.html
+2025-08-07 18:29:13 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'wall tiles'.
+2025-08-07 18:29:15 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=1
+2025-08-07 18:29:17 | INFO | \u2705 Saved HTML for bathroom tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_1.html
+2025-08-07 18:29:17 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'bathroom tiles'.
+2025-08-07 18:29:19 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=2
+2025-08-07 18:29:20 | INFO | \u2705 Saved HTML for bathroom tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_2.html
+2025-08-07 18:29:20 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'bathroom tiles'.
+2025-08-07 18:29:22 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=3
+2025-08-07 18:29:23 | INFO | \u2705 Saved HTML for bathroom tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_3.html
+2025-08-07 18:29:23 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'bathroom tiles'.
+2025-08-07 18:29:25 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=4
+2025-08-07 18:29:25 | INFO | \u2705 Saved HTML for bathroom tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_4.html
+2025-08-07 18:29:25 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'bathroom tiles'.
+2025-08-07 18:29:28 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=5
+2025-08-07 18:29:28 | INFO | \u2705 Saved HTML for bathroom tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_5.html
+2025-08-07 18:29:28 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'bathroom tiles'.
+2025-08-07 18:29:30 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=6
+2025-08-07 18:29:31 | INFO | \u2705 Saved HTML for bathroom tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_6.html
+2025-08-07 18:29:31 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'bathroom tiles'.
+2025-08-07 18:29:33 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=7
+2025-08-07 18:29:34 | INFO | \u2705 Saved HTML for bathroom tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_7.html
+2025-08-07 18:29:34 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'bathroom tiles'.
+2025-08-07 18:29:36 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=8
+2025-08-07 18:29:36 | INFO | \u2705 Saved HTML for bathroom tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_8.html
+2025-08-07 18:29:36 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'bathroom tiles'.
+2025-08-07 18:29:38 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=9
+2025-08-07 18:29:39 | INFO | \u2705 Saved HTML for bathroom tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_9.html
+2025-08-07 18:29:39 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'bathroom tiles'.
+2025-08-07 18:29:41 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&page=10
+2025-08-07 18:29:42 | INFO | \u2705 Saved HTML for bathroom tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\bathroom_tiles_page_10.html
+2025-08-07 18:29:42 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'bathroom tiles'.
+2025-08-07 18:29:44 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=1
+2025-08-07 18:29:45 | INFO | \u2705 Saved HTML for porcelain tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_1.html
+2025-08-07 18:29:45 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'porcelain tiles'.
+2025-08-07 18:29:47 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=2
+2025-08-07 18:29:48 | INFO | \u2705 Saved HTML for porcelain tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_2.html
+2025-08-07 18:29:48 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'porcelain tiles'.
+2025-08-07 18:29:50 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=3
+2025-08-07 18:29:51 | INFO | \u2705 Saved HTML for porcelain tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_3.html
+2025-08-07 18:29:51 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'porcelain tiles'.
+2025-08-07 18:29:53 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=4
+2025-08-07 18:29:53 | INFO | \u2705 Saved HTML for porcelain tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_4.html
+2025-08-07 18:29:53 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'porcelain tiles'.
+2025-08-07 18:29:55 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=5
+2025-08-07 18:29:56 | INFO | \u2705 Saved HTML for porcelain tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_5.html
+2025-08-07 18:29:56 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'porcelain tiles'.
+2025-08-07 18:29:58 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=6
+2025-08-07 18:29:59 | INFO | \u2705 Saved HTML for porcelain tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_6.html
+2025-08-07 18:29:59 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'porcelain tiles'.
+2025-08-07 18:30:01 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=7
+2025-08-07 18:30:02 | INFO | \u2705 Saved HTML for porcelain tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_7.html
+2025-08-07 18:30:02 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'porcelain tiles'.
+2025-08-07 18:30:04 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=8
+2025-08-07 18:30:04 | INFO | \u2705 Saved HTML for porcelain tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_8.html
+2025-08-07 18:30:04 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'porcelain tiles'.
+2025-08-07 18:30:06 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=9
+2025-08-07 18:30:07 | INFO | \u2705 Saved HTML for porcelain tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_9.html
+2025-08-07 18:30:07 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'porcelain tiles'.
+2025-08-07 18:30:09 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=porcelain+tiles&page=10
+2025-08-07 18:30:10 | INFO | \u2705 Saved HTML for porcelain tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\porcelain_tiles_page_10.html
+2025-08-07 18:30:10 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'porcelain tiles'.
+2025-08-07 18:30:12 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=1
+2025-08-07 18:30:13 | INFO | \u2705 Saved HTML for kitchen tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_1.html
+2025-08-07 18:30:14 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'kitchen tiles'.
+2025-08-07 18:30:16 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=2
+2025-08-07 18:30:16 | INFO | \u2705 Saved HTML for kitchen tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_2.html
+2025-08-07 18:30:16 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'kitchen tiles'.
+2025-08-07 18:30:18 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=3
+2025-08-07 18:30:19 | INFO | \u2705 Saved HTML for kitchen tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_3.html
+2025-08-07 18:30:19 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'kitchen tiles'.
+2025-08-07 18:30:21 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=4
+2025-08-07 18:30:22 | INFO | \u2705 Saved HTML for kitchen tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_4.html
+2025-08-07 18:30:22 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'kitchen tiles'.
+2025-08-07 18:30:24 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=5
+2025-08-07 18:30:25 | INFO | \u2705 Saved HTML for kitchen tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_5.html
+2025-08-07 18:30:25 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'kitchen tiles'.
+2025-08-07 18:30:27 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=6
+2025-08-07 18:30:27 | INFO | \u2705 Saved HTML for kitchen tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_6.html
+2025-08-07 18:30:27 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'kitchen tiles'.
+2025-08-07 18:30:29 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=7
+2025-08-07 18:30:30 | INFO | \u2705 Saved HTML for kitchen tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_7.html
+2025-08-07 18:30:30 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'kitchen tiles'.
+2025-08-07 18:30:32 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=8
+2025-08-07 18:30:33 | INFO | \u2705 Saved HTML for kitchen tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_8.html
+2025-08-07 18:30:33 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'kitchen tiles'.
+2025-08-07 18:30:35 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=9
+2025-08-07 18:30:35 | INFO | \u2705 Saved HTML for kitchen tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_9.html
+2025-08-07 18:30:35 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'kitchen tiles'.
+2025-08-07 18:30:37 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=kitchen+tiles&page=10
+2025-08-07 18:30:38 | INFO | \u2705 Saved HTML for kitchen tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\kitchen_tiles_page_10.html
+2025-08-07 18:30:38 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'kitchen tiles'.
+2025-08-07 18:30:40 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=1
+2025-08-07 18:30:42 | INFO | \u2705 Saved HTML for mosaic tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_1.html
+2025-08-07 18:30:42 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'mosaic tiles'.
+2025-08-07 18:30:44 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=2
+2025-08-07 18:30:45 | INFO | \u2705 Saved HTML for mosaic tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_2.html
+2025-08-07 18:30:45 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'mosaic tiles'.
+2025-08-07 18:30:47 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=3
+2025-08-07 18:30:47 | INFO | \u2705 Saved HTML for mosaic tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_3.html
+2025-08-07 18:30:47 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'mosaic tiles'.
+2025-08-07 18:30:49 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=4
+2025-08-07 18:30:50 | INFO | \u2705 Saved HTML for mosaic tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_4.html
+2025-08-07 18:30:50 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'mosaic tiles'.
+2025-08-07 18:30:52 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=5
+2025-08-07 18:30:53 | INFO | \u2705 Saved HTML for mosaic tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_5.html
+2025-08-07 18:30:53 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'mosaic tiles'.
+2025-08-07 18:30:55 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=6
+2025-08-07 18:30:55 | INFO | \u2705 Saved HTML for mosaic tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_6.html
+2025-08-07 18:30:55 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'mosaic tiles'.
+2025-08-07 18:30:57 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=7
+2025-08-07 18:30:58 | INFO | \u2705 Saved HTML for mosaic tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_7.html
+2025-08-07 18:30:58 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'mosaic tiles'.
+2025-08-07 18:31:00 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=8
+2025-08-07 18:31:01 | INFO | \u2705 Saved HTML for mosaic tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_8.html
+2025-08-07 18:31:01 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'mosaic tiles'.
+2025-08-07 18:31:03 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=9
+2025-08-07 18:31:04 | INFO | \u2705 Saved HTML for mosaic tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_9.html
+2025-08-07 18:31:04 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'mosaic tiles'.
+2025-08-07 18:31:06 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=mosaic+tiles&page=10
+2025-08-07 18:31:06 | INFO | \u2705 Saved HTML for mosaic tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\mosaic_tiles_page_10.html
+2025-08-07 18:31:06 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'mosaic tiles'.
+2025-08-07 18:31:08 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=1
+2025-08-07 18:31:10 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_1.html
+2025-08-07 18:31:10 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:12 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=2
+2025-08-07 18:31:12 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_2.html
+2025-08-07 18:31:12 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:14 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=3
+2025-08-07 18:31:15 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_3.html
+2025-08-07 18:31:15 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:17 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=4
+2025-08-07 18:31:18 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_4.html
+2025-08-07 18:31:18 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:20 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=5
+2025-08-07 18:31:20 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_5.html
+2025-08-07 18:31:20 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:22 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=6
+2025-08-07 18:31:23 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_6.html
+2025-08-07 18:31:23 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:25 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=7
+2025-08-07 18:31:26 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_7.html
+2025-08-07 18:31:26 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:28 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=8
+2025-08-07 18:31:28 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_8.html
+2025-08-07 18:31:28 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:30 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=9
+2025-08-07 18:31:31 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_9.html
+2025-08-07 18:31:31 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:33 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=glazed+vitrified+tiles&page=10
+2025-08-07 18:31:34 | INFO | \u2705 Saved HTML for glazed vitrified tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\glazed_vitrified_tiles_page_10.html
+2025-08-07 18:31:34 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'glazed vitrified tiles'.
+2025-08-07 18:31:36 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=1
+2025-08-07 18:31:37 | INFO | \u2705 Saved HTML for ceramic tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_1.html
+2025-08-07 18:31:37 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'ceramic tiles'.
+2025-08-07 18:31:39 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=2
+2025-08-07 18:31:40 | INFO | \u2705 Saved HTML for ceramic tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_2.html
+2025-08-07 18:31:40 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'ceramic tiles'.
+2025-08-07 18:31:42 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=3
+2025-08-07 18:31:43 | INFO | \u2705 Saved HTML for ceramic tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_3.html
+2025-08-07 18:31:43 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'ceramic tiles'.
+2025-08-07 18:31:45 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=4
+2025-08-07 18:31:45 | INFO | \u2705 Saved HTML for ceramic tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_4.html
+2025-08-07 18:31:46 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'ceramic tiles'.
+2025-08-07 18:31:48 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=5
+2025-08-07 18:31:48 | INFO | \u2705 Saved HTML for ceramic tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_5.html
+2025-08-07 18:31:48 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'ceramic tiles'.
+2025-08-07 18:31:50 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=6
+2025-08-07 18:31:51 | INFO | \u2705 Saved HTML for ceramic tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_6.html
+2025-08-07 18:31:51 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'ceramic tiles'.
+2025-08-07 18:31:53 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=7
+2025-08-07 18:31:53 | INFO | \u2705 Saved HTML for ceramic tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_7.html
+2025-08-07 18:31:53 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'ceramic tiles'.
+2025-08-07 18:31:56 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=8
+2025-08-07 18:31:56 | INFO | \u2705 Saved HTML for ceramic tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_8.html
+2025-08-07 18:31:56 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'ceramic tiles'.
+2025-08-07 18:31:58 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=9
+2025-08-07 18:31:59 | INFO | \u2705 Saved HTML for ceramic tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_9.html
+2025-08-07 18:31:59 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'ceramic tiles'.
+2025-08-07 18:32:01 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&page=10
+2025-08-07 18:32:01 | INFO | \u2705 Saved HTML for ceramic tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\ceramic_tiles_page_10.html
+2025-08-07 18:32:02 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'ceramic tiles'.
+2025-08-07 18:32:04 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=1
+2025-08-07 18:32:05 | INFO | \u2705 Saved HTML for stone tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_1.html
+2025-08-07 18:32:05 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'stone tiles'.
+2025-08-07 18:32:07 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=2
+2025-08-07 18:32:08 | INFO | \u2705 Saved HTML for stone tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_2.html
+2025-08-07 18:32:08 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'stone tiles'.
+2025-08-07 18:32:10 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=3
+2025-08-07 18:32:10 | INFO | \u2705 Saved HTML for stone tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_3.html
+2025-08-07 18:32:11 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'stone tiles'.
+2025-08-07 18:32:13 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=4
+2025-08-07 18:32:13 | INFO | \u2705 Saved HTML for stone tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_4.html
+2025-08-07 18:32:13 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'stone tiles'.
+2025-08-07 18:32:15 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=5
+2025-08-07 18:32:16 | INFO | \u2705 Saved HTML for stone tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_5.html
+2025-08-07 18:32:16 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'stone tiles'.
+2025-08-07 18:32:18 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=6
+2025-08-07 18:32:18 | INFO | \u2705 Saved HTML for stone tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_6.html
+2025-08-07 18:32:19 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'stone tiles'.
+2025-08-07 18:32:21 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=7
+2025-08-07 18:32:21 | INFO | \u2705 Saved HTML for stone tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_7.html
+2025-08-07 18:32:21 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'stone tiles'.
+2025-08-07 18:32:23 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=8
+2025-08-07 18:32:24 | INFO | \u2705 Saved HTML for stone tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_8.html
+2025-08-07 18:32:24 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'stone tiles'.
+2025-08-07 18:32:26 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=9
+2025-08-07 18:32:27 | INFO | \u2705 Saved HTML for stone tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_9.html
+2025-08-07 18:32:27 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'stone tiles'.
+2025-08-07 18:32:29 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=stone+tiles&page=10
+2025-08-07 18:32:30 | INFO | \u2705 Saved HTML for stone tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\stone_tiles_page_10.html
+2025-08-07 18:32:30 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'stone tiles'.
+2025-08-07 18:32:32 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=1
+2025-08-07 18:32:33 | INFO | \u2705 Saved HTML for cement tiles page 1 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_1.html
+2025-08-07 18:32:33 | INFO | \U0001f50d Found 10 products on page 1 for keyword 'cement tiles'.
+2025-08-07 18:32:35 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=2
+2025-08-07 18:32:36 | INFO | \u2705 Saved HTML for cement tiles page 2 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_2.html
+2025-08-07 18:32:36 | INFO | \U0001f50d Found 10 products on page 2 for keyword 'cement tiles'.
+2025-08-07 18:32:38 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=3
+2025-08-07 18:32:39 | INFO | \u2705 Saved HTML for cement tiles page 3 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_3.html
+2025-08-07 18:32:39 | INFO | \U0001f50d Found 10 products on page 3 for keyword 'cement tiles'.
+2025-08-07 18:32:41 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=4
+2025-08-07 18:32:42 | INFO | \u2705 Saved HTML for cement tiles page 4 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_4.html
+2025-08-07 18:32:42 | INFO | \U0001f50d Found 10 products on page 4 for keyword 'cement tiles'.
+2025-08-07 18:32:44 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=5
+2025-08-07 18:32:44 | INFO | \u2705 Saved HTML for cement tiles page 5 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_5.html
+2025-08-07 18:32:44 | INFO | \U0001f50d Found 10 products on page 5 for keyword 'cement tiles'.
+2025-08-07 18:32:46 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=6
+2025-08-07 18:32:47 | INFO | \u2705 Saved HTML for cement tiles page 6 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_6.html
+2025-08-07 18:32:47 | INFO | \U0001f50d Found 10 products on page 6 for keyword 'cement tiles'.
+2025-08-07 18:32:49 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=7
+2025-08-07 18:32:50 | INFO | \u2705 Saved HTML for cement tiles page 7 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_7.html
+2025-08-07 18:32:50 | INFO | \U0001f50d Found 10 products on page 7 for keyword 'cement tiles'.
+2025-08-07 18:32:52 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=8
+2025-08-07 18:32:52 | INFO | \u2705 Saved HTML for cement tiles page 8 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_8.html
+2025-08-07 18:32:53 | INFO | \U0001f50d Found 10 products on page 8 for keyword 'cement tiles'.
+2025-08-07 18:32:55 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=9
+2025-08-07 18:32:55 | INFO | \u2705 Saved HTML for cement tiles page 9 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_9.html
+2025-08-07 18:32:55 | INFO | \U0001f50d Found 10 products on page 9 for keyword 'cement tiles'.
+2025-08-07 18:32:57 | INFO | Scraping URL: https://dir.indiamart.com/search.mp?ss=cement+tiles&page=10
+2025-08-07 18:32:58 | INFO | \u2705 Saved HTML for cement tiles page 10 to C:\Users\qalta\GM\green_marble\green_marble\ingestion\scripts\..\data\raw_html\2025-08-07\cement_tiles_page_10.html
+2025-08-07 18:32:58 | INFO | \U0001f50d Found 10 products on page 10 for keyword 'cement tiles'.
+2025-08-07 18:33:00 | INFO | \U0001f389 Finished scraping IndiaMART.
+2025-08-07 18:59:22 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=floor+tiles&cq=1&pg=1
+2025-08-07 18:59:23 | INFO | Saved HTML: floor_tiles_page_1.html
+2025-08-07 18:59:25 | INFO | \u2705 Parsed 10 products from floor_tiles_page_1.html
+2025-08-07 18:59:27 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=floor+tiles&cq=1&pg=2
+2025-08-07 18:59:28 | INFO | Saved HTML: floor_tiles_page_2.html
+2025-08-07 18:59:28 | INFO | \u2705 Parsed 10 products from floor_tiles_page_2.html
+2025-08-07 18:59:31 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=marble&cq=1&pg=1
+2025-08-07 18:59:33 | INFO | Saved HTML: marble_page_1.html
+2025-08-07 18:59:33 | INFO | \u2705 Parsed 10 products from marble_page_1.html
+2025-08-07 18:59:35 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=marble&cq=1&pg=2
+2025-08-07 18:59:36 | INFO | Saved HTML: marble_page_2.html
+2025-08-07 18:59:36 | INFO | \u2705 Parsed 10 products from marble_page_2.html
+2025-08-07 18:59:37 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&cq=1&pg=1
+2025-08-07 18:59:38 | INFO | Saved HTML: ceramic_tiles_page_1.html
+2025-08-07 18:59:39 | INFO | \u2705 Parsed 10 products from ceramic_tiles_page_1.html
+2025-08-07 18:59:41 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=ceramic+tiles&cq=1&pg=2
+2025-08-07 18:59:41 | INFO | Saved HTML: ceramic_tiles_page_2.html
+2025-08-07 18:59:42 | INFO | \u2705 Parsed 10 products from ceramic_tiles_page_2.html
+2025-08-07 18:59:44 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=granite&cq=1&pg=1
+2025-08-07 18:59:46 | INFO | Saved HTML: granite_page_1.html
+2025-08-07 18:59:46 | INFO | \u2705 Parsed 10 products from granite_page_1.html
+2025-08-07 18:59:48 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=granite&cq=1&pg=2
+2025-08-07 18:59:48 | INFO | Saved HTML: granite_page_2.html
+2025-08-07 18:59:49 | INFO | \u2705 Parsed 10 products from granite_page_2.html
+2025-08-07 18:59:52 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&cq=1&pg=1
+2025-08-07 18:59:52 | INFO | Saved HTML: bathroom_tiles_page_1.html
+2025-08-07 18:59:53 | INFO | \u2705 Parsed 10 products from bathroom_tiles_page_1.html
+2025-08-07 18:59:55 | INFO | Fetching: https://dir.indiamart.com/search.mp?ss=bathroom+tiles&cq=1&pg=2
+2025-08-07 18:59:56 | INFO | Saved HTML: bathroom_tiles_page_2.html
+2025-08-07 18:59:56 | INFO | \u2705 Parsed 10 products from bathroom_tiles_page_2.html
+2025-08-07 18:59:58 | INFO | \U0001f389 Final CSV saved: green_marble/green_marble/ingestion/data/extracted_data\indiamart_products_2025-08-07.csv

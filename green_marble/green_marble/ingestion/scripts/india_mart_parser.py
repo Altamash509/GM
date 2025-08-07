@@ -1,16 +1,16 @@
 import os
+import requests
 import logging
-import hashlib
-from datetime import datetime
+import uuid
+import time
+import random
 from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import datetime
 
-# ──────────────────────────────
-# ✅ 1. Set up logging
-# ──────────────────────────────
+# ------------------ Logging Setup ------------------
 log_dir = os.path.join(os.path.dirname(__file__), '..', 'logs')
 os.makedirs(log_dir, exist_ok=True)
-
 log_file = os.path.join(log_dir, 'scraper.log')
 
 logging.basicConfig(
@@ -20,108 +20,103 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
-# ──────────────────────────────
-# ✅ 2. Parse HTML file
-# ──────────────────────────────
-def parse_html_file(file_path):
-    logging.info(f"Started parsing file: {file_path}")
+# ------------------ Configs ------------------
+BASE_URL = "https://dir.indiamart.com/search.mp?ss={keyword}&cq=1&pg={page_num}"
+KEYWORDS = ["floor tiles", "marble", "ceramic tiles", "granite", "bathroom tiles"]
+PAGES_PER_KEYWORD = 2  # Increase gradually after testing
 
-    with open(file_path, 'r', encoding='utf-8') as f:
-        soup = BeautifulSoup(f, 'html.parser')
+today_str = datetime.today().strftime("%Y-%m-%d")
+raw_html_dir = f"green_marble/green_marble/ingestion/data/raw_html/{today_str}"
+os.makedirs(raw_html_dir, exist_ok=True)
 
-    product_blocks = soup.find_all("div", class_="prc_bncta db mt10 pl10 pr10")
-    logging.info(f"Found {len(product_blocks)} product blocks.")
+extracted_dir = "green_marble/green_marble/ingestion/data/extracted_data"
+os.makedirs(extracted_dir, exist_ok=True)
 
-    extracted_data = []
+# ------------------ Functions ------------------
 
-    for block in product_blocks:
-        try:
-            # Product Name
-            product_name_tag = block.find("p", class_="prd_nam")
-            product_name = product_name_tag.get_text(strip=True) if product_name_tag else None
+def fetch_and_save_html(keyword, page_num):
+    try:
+        url = BASE_URL.format(keyword=keyword.replace(" ", "+"), page_num=page_num)
+        logging.info(f"Fetching: {url}")
+        response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+        response.raise_for_status()
 
-            # Price
-            price_tag = block.find("p", class_="prc")
-            price = price_tag.get_text(strip=True).replace('\n', '') if price_tag else None
+        filename = f"{keyword.replace(' ', '_')}_page_{page_num}.html"
+        filepath = os.path.join(raw_html_dir, filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(response.text)
 
-            # Unit
-            unit_tag = price_tag.find_next("span", class_="fs12 fw4") if price_tag else None
-            unit = unit_tag.get_text(strip=True) if unit_tag else None
+        logging.info(f"Saved HTML: {filename}")
+        return filepath
+    except Exception as e:
+        logging.error(f"Failed to fetch page {page_num} for {keyword}: {e}")
+        return None
 
-            # Seller Name
-            seller_tag = block.find("a", class_="new_mobile_card_cname")
-            seller_name = seller_tag.get_text(strip=True) if seller_tag else None
+def parse_html_file(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            soup = BeautifulSoup(f, 'html.parser')
 
-            # Location (best-effort: we extract from Export info line)
-            location_tag = block.find("div", class_="countryNameList")
-            location = location_tag.get_text(strip=True) if location_tag else None
+        product_blocks = soup.find_all("div", class_="prc_bncta db mt10 pl10 pr10")
+        products = []
 
-            # Seller Type (guess based on badge or default)
-            seller_type = "Verified Seller" if "Verified" in block.get_text() else "Unknown"
+        for block in product_blocks:
+            try:
+                product_id = uuid.uuid4().hex
+                name_tag = block.find("p", class_="prd_nam")
+                price_tag = block.find("span", class_="prc_conv")
+                unit_tag = block.find("span", class_="fs12 fw4")
+                company_tag = block.find("a", class_="new_mobile_card_cname")
+                location_tag = block.find("div", class_="countryNameList")
+                rating_tag = block.find("div", class_="new_mobile_card_rating_container")
+                trust_tags = block.find_all("span", class_="svgM")
 
-            # Contact URL
-            contact_url = "https://www.indiamart.com" + seller_tag['href'] if seller_tag and seller_tag.has_attr('href') else None
+                specs = block.find("ul", class_="fs12 isq mb7")
+                specs_text = ", ".join(li.text.strip() for li in specs.find_all("li")) if specs else None
 
-            # Product URL
-            product_link_tag = block.find("a")
-            product_url = "https://www.indiamart.com" + product_link_tag['href'] if product_link_tag and product_link_tag.has_attr('href') else None
+                product = {
+                    "product_id": product_id,
+                    "product_name": name_tag.text.strip() if name_tag else None,
+                    "price": price_tag.text.strip() if price_tag else None,
+                    "unit": unit_tag.text.strip() if unit_tag else None,
+                    "specs": specs_text,
+                    "company": company_tag.text.strip() if company_tag else None,
+                    "location": location_tag.text.strip() if location_tag else None,
+                    "rating_info": rating_tag.text.strip() if rating_tag else None,
+                    "verified_tags": ", ".join(tag.text.strip() for tag in trust_tags) if trust_tags else None,
+                    "scrape_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                }
 
-            # Image URL
-            img_tag = block.find("img")
-            image_url = img_tag['src'] if img_tag and img_tag.has_attr('src') else None
+                products.append(product)
+            except Exception as e:
+                logging.warning(f"Error parsing product block: {e}")
+        
+        logging.info(f"✅ Parsed {len(products)} products from {os.path.basename(filepath)}")
+        return products
+    except Exception as e:
+        logging.error(f"Error reading HTML file: {filepath} — {e}")
+        return []
 
-            # Rating (Not easily available — placeholder)
-            rating = None
+# ------------------ Main Script ------------------
 
-            # Number of Reviews (Not shown — placeholder)
-            num_reviews = None
+if __name__ == "__main__":
+    all_products = []
 
-            # Category (Try to guess from keywords — fallback)
-            category = "Tiles" if "tile" in product_name.lower() else "Other"
+    for keyword in KEYWORDS:
+        for page in range(1, PAGES_PER_KEYWORD + 1):
+            html_file = fetch_and_save_html(keyword, page)
+            if html_file:
+                products = parse_html_file(html_file)
+                all_products.extend(products)
+            
+            time.sleep(random.uniform(1, 3))  # Sleep to avoid rate limiting
 
-            # Availability (Not visible — placeholder)
-            availability = None
-
-            # Scrape Timestamp
-            scrape_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-            # Product ID (Hash from name + seller)
-            id_source = f"{product_name}_{seller_name}"
-            product_id = hashlib.md5(id_source.encode('utf-8')).hexdigest()
-
-            # Collect Record
-            extracted_data.append({
-                "product_id": product_id,
-                "product_name": product_name,
-                "price": price,
-                "category": category,
-                "seller_name": seller_name,
-                "location": location,
-                "seller_type": seller_type,
-                "contact_url": contact_url,
-                "image_url": image_url,
-                "product_url": product_url,
-                "rating": rating,
-                "num_reviews": num_reviews,
-                "unit": unit,
-                "availability": availability,
-                "scrape_date": scrape_date
-            })
-
-        except Exception as e:
-            logging.error(f"Error extracting block: {e}")
-
-    logging.info(f"Successfully parsed {len(extracted_data)} products from {file_path}")
-
-    # Save as CSV
-    output_dir = os.path.join(os.path.dirname(__file__), '..', 'data', 'extracted_data')
-    os.makedirs(output_dir, exist_ok=True)
-
-    date_str = datetime.now().strftime('%Y-%m-%d')
-    output_path = os.path.join(output_dir, f'indiamart_products_{date_str}.csv')
-
-    df = pd.DataFrame(extracted_data)
-    df.to_csv(output_path, index=False)
-
-    logging.info(f"Saved extracted data to: {output_path}")
-    print(f"✅ Parsed and saved {len(df)} rows to {output_path}")
+    if all_products:
+        df = pd.DataFrame(all_products)
+        output_csv_path = os.path.join(extracted_dir, f"indiamart_products_{today_str}.csv")
+        df.to_csv(output_csv_path, index=False)
+        logging.info(f"🎉 Final CSV saved: {output_csv_path}")
+        print(f"✅ Scraping complete. Total products: {len(df)}")
+        print(f"📄 Output file: {output_csv_path}")
+    else:
+        print("⚠️ No products scraped.")
